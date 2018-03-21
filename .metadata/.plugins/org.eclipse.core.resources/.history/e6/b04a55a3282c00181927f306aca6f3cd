@@ -1,0 +1,19 @@
+package com.springmvc.hibernate.controller;
+
+import java.util.ArrayList;
+import java.util.List;
+
+
+
+import org.springframework.stereotype.Controller;
+
+import org.springframework.web.servlet.ModelAndView;
+
+import com.spring.form.employee.EmployeeBean;
+
+@Controller
+public class EmployeeController {
+
+	@Requestm
+	
+}

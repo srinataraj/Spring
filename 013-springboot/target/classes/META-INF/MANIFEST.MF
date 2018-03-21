@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: 013-springboot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 680814
+Implementation-Vendor-Id: com.spring
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/013-springbo
+ ot/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
