@@ -4,10 +4,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>hi</title>
 </head>
 <body>
-<a href="employeeform">Add Employee</a>  
-<a href="viewemp">View Employees</a>  
+<a href="employeeform.spring">Add Employee</a>  
+<a href="viewemp.spring">View Employees</a>  
 </body>
 </html>

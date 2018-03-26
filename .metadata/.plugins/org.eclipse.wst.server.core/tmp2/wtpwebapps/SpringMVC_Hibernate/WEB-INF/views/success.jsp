@@ -7,6 +7,8 @@
 <title>Add Employee</title>
 </head>
 <body>
+<a href="empform.html">Add Employee</a>\
+<a href="viewEmployee.html">view employees</a>
 <h1>Employee is saved to the database</h1>
 </body>
 </html>

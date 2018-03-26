@@ -7,6 +7,7 @@
 <title>Emplpoyee Manager</title>
 </head>
 <body>
-		<a href="employeeForm.html">Add Employee</a>
+		<a href="empform.html">Add Employee</a>
+		<a href="viewEmployee.html">view employees</a>
 </body>
 </html>

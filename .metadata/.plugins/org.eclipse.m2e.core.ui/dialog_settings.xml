@@ -64,6 +64,7 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="SpringMVC_Hibernate"/>
 			<item value="004_SpringMVC_Hibernate"/>
 			<item value="002_SpringMVCFormExample"/>
 		</list>
@@ -72,6 +73,7 @@
 			<item value="002_SpringMVCFormExample"/>
 		</list>
 		<list key="artifactId">
+			<item value="SpringMVC_Hibernate"/>
 			<item value="004_SpringMVC_Hibernate"/>
 			<item value="002_SpringMVCFormExample"/>
 		</list>

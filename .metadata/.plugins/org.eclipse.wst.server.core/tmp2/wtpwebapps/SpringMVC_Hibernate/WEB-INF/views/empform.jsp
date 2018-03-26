@@ -9,9 +9,13 @@
 <title>Add Employee</title>
 </head>
 <body>
-
+<a href="empform.html">Add Employee</a>
+<a href ="viewEmployee.html">View Employees</a>
 	<form:form method="post" action="saveEmployee.html">
 		<table>
+		<tr>
+			<td><form:hidden path="id"/></td>
+		</tr>
 			<tr>
 				<td>Name :</td>
 				<td><form:input path="employeeName" /></td>

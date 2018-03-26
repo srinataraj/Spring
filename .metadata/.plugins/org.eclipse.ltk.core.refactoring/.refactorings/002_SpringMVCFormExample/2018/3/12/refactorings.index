@@ -2,3 +2,9 @@
 1521541020566	Copy package
 1521541072697	Copy file
 1521541143610	Copy compilation unit
+1521633779483	Move 'web.xml' to 'WEB-INF'
+1521633782670	Move 'springform -servlet.xml' to 'WEB-INF'
+1521634333943	Delete element
+1521635461861	Rename resource 'springform -servlet.xml'
+1521693158580	Copy compilation unit
+1521693167678	Delete element

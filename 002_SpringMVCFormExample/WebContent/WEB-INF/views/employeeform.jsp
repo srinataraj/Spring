@@ -5,11 +5,15 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Add employee</title>
 </head>
 <body>
-<form:form method="post" action="save">    
-        <table >    
+<form:form method="post" action="save.spring">    
+        <table > 
+        <tr>    
+          <td>Id : </td>   
+          <td><form:input path="id"  /></td>  
+         </tr>    
          <tr>    
           <td>Name : </td>   
           <td><form:input path="name"  /></td>  
